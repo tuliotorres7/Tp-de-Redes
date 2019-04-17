@@ -1,7 +1,6 @@
 # Tp-de-Redes
 Navegador/Servidor
 
-Tulio Ribeiro Torres
 
 Ultima alteração 17/04/2017
 
